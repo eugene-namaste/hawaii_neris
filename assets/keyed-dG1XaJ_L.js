@@ -1,0 +1,1 @@
+import{E as e,F as t,T as n,b as r}from"./runtime-DKtE4juS.js";var i=n(class extends e{constructor(){super(...arguments),this.key=t}render(e,t){return this.key=e,t}update(e,[t,n]){return t!==this.key&&(r(e),this.key=t),n}});export{i as t};
