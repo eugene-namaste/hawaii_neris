@@ -1,0 +1,1 @@
+import{t as e}from"./CypherListener-CS901Zh9.js";var t=class extends e{constructor(){super(...arguments),this.bindParams=[],this.enterOC_Parameter=e=>{this.bindParams.push(e.getText())}}};export{t as default};
