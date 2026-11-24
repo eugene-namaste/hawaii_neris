@@ -1,0 +1,1 @@
+import{r as e}from"./antlr4.web-Dw1xNzX3.js";var t=class extends e{constructor(){super(...arguments),this.errors=null}syntaxError(e,t,n,r,i,a){this.errors||=[],this.errors.push({line:n,column:r,msg:i,e:a})}};export{t as default};
